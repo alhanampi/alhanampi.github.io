@@ -47,7 +47,6 @@ body {
 	margin-right: auto;
 }
 
-
 //scss
 //fondo de todo el juego
 #gameBody {
@@ -101,7 +100,7 @@ body {
 			text-align: center;
 		}
 	}
-}	
+}	  
 //tablero
 #board {
 	background-color: rgba(255, 255, 255, 0.5);
@@ -154,10 +153,9 @@ body {
 		margin: 1%;
 		height: 150px;
 		img {
-		//	width: 30%;
 			height: 100%;
 			cursor: pointer;
-			border:  rgb(38, 41, 41) 3px solid;
+			border:  rgb(22, 24, 24) 3px solid;
 			border-radius: 3px;
 		}
 	}
